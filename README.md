@@ -1,5 +1,10 @@
 # PHP Day 2017
 
+<a href="http://phppr.org">
+  <img src="https://avatars2.githubusercontent.com/u/6100493?v=3&s=200" alt="phppr" />
+  by phppr.org
+</a>
+
 ### Projetos
 
 [1º PHP Day 2017](https://github.com/phppr/phpday-2017/projects/1)
