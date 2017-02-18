@@ -1,5 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/phppr/phpday-2017.png?label=ready&title=Ready)](https://waffle.io/phppr/phpday-2017)
-# PHP Day 2017
+# PHP Day 2017 [![Stories in Ready](https://badge.waffle.io/phppr/phpday-2017.png?label=ready&title=Ready)](https://waffle.io/phppr/phpday-2017)
 
 <a href="http://phppr.org">
   <img src="https://avatars2.githubusercontent.com/u/6100493?v=3&s=200" alt="phppr" />
