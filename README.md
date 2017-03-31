@@ -11,7 +11,11 @@
 
 ### Quer apoiar? Veja nossa proposta
 
-[https://drive.google.com/file/d/0B2CgsELjY872RVFzdGJBclNVeVE/view?usp=sharing] (Apresentação - Formato PDF)
+(Apresentação - Formato PDF)
+[https://drive.google.com/file/d/0B2CgsELjY872RVFzdGJBclNVeVE/view?usp=sharing](PDF)
+
+English Version - PDF
+[https://drive.google.com/open?id=0B2CgsELjY872d0VQSzlWVGozTWc](PDF English Version)
 
 ### Call for Papers
 
