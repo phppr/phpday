@@ -1,38 +1,44 @@
-# PHP Day 2017 [![Stories in Ready](https://badge.waffle.io/phppr/phpday-2017.png?label=ready&title=Ready)](https://waffle.io/phppr/phpday-2017)
+###Call for papers
+Encerrado!
 
-<a href="http://phppr.org">
-  <img src="https://avatars2.githubusercontent.com/u/6100493?v=3&s=200" alt="phppr" />
-  by phppr.org
-</a>
+###Quando?
+O evento acontece no dia 10 de Junho desse ano.
+A abertura será as 8:30 da manhã.
 
-### Projeto
+###Onde?
+Será na Aldeia Coworking. Av. Candido de Abreu, 381 - Centro Cívico.
 
-[1º PHP Day 2017](https://github.com/phppr/phpday-2017/projects/1)
+###Onde compro o ingresso?
+https://www.sympla.com.br/php-day-curitiba__136236
 
-### Quer apoiar? Veja nossa proposta
+###Kit Inscrição
+O ingresso da direito ao Kit inscrição com:
+Credencial + Camiseta + Caneta + Bloco + $50 de crédito na Amazon AWS.
+Todo participante ganha um sanduíche Subway.
 
-PDF -> [https://drive.google.com/file/d/0B2CgsELjY872RVFzdGJBclNVeVE/view?usp=sharing]
+###Formato
+Teremos 2 Keynotes, um de abertura e um de fechamento sendo cada um de 1 hora.
+As demais Talks terão entre 20 e 30 minutos.
+Teremos um intervalo de 2 horas para almoço e um intervalo de 30 minutos ao meio da tarde.
 
-English Version -> [https://drive.google.com/open?id=0B2CgsELjY872d0VQSzlWVGozTWc]
+###Palestras já confirmadas
+-Inovando com IoT e PHP	- Matheus Marabesi (SP)
+-Taking your career to the next level! - Matheus Gontijo
+-Programação Funcional em PHP - Marcel Gonçalves dos Santos
+-PHP Inteligência artificial - Wellton Costa de Oliveira
+-PHP + Azure = +Escalabilidade e -Preconceito - Marcos Hitanael Barchiki dos Santos
+-Yii2 Framework. Yes, it is! - Gilson Reis
+-Usando Silex para consumir código legado - Fabio de Souza Mendes
+-API PHP para Blockchain - Flávio Lisboa
+-PHP Drones - Wellton Costa de Oliveira
 
-### Call for Papers
-
-[https://goo.gl/forms/4XP5oqyq0okuMXC12](https://goo.gl/forms/4XP5oqyq0okuMXC12)
-
-### Planilha de Controle da organização (Solicitar acesso)
-
-[https://docs.google.com/spreadsheets/d/1gn3noap5gLhdr-u8wecENFyPKMFtYU2D4ha3Bx_T3X0](https://docs.google.com/spreadsheets/d/1gn3noap5gLhdr-u8wecENFyPKMFtYU2D4ha3Bx_T3X0)
-
-### Apoios e Patrócinios já firmados
-
-Aldeia Coworking -> [https://www.aldeiacoworking.com.br/](https://www.aldeiacoworking.com.br/)
-
-Microsoft -> [https://www.microsoft.com/pt-br/](https://www.microsoft.com/pt-br/)
-
-Stickers Dev -> [https://www.stickersdevs.com.br/] (https://www.stickersdevs.com.br/)
-
-Casa do Código -> [https://www.casadocodigo.com.br/] (https://www.casadocodigo.com.br/)
-
-### Identidade visual dos Patrocínios e apoios para adicionar nos materiais
-
-Aldeia Coworking -> [https://www.aldeiacoworking.com.br/identidade-visual-aldeia-arquivos/](https://www.aldeiacoworking.com.br/identidade-visual-aldeia-arquivos/)
+###Agradecimentos as empresas esse evento possível
+-Aldeia Coworking https://www.aldeiacoworking.com.br
+-Lojaskd.com.br https://www.lojaskd.com.br
+-Creative Duo http://creativeduo.com.br
+-Umbler https://www.umbler.com
+-Microsoft https://www.microsoft.com
+-Amazon Web Services https://aws.amazon.com/pt
+-Zend http://www.zend.com
+-Grupo Caelum (Casa do Código, Alura) https://www.caelum.com.br, https://www.casadocodigo.com.br, https://www.alura.com.br
+-Novatec https://novatec.com.br
